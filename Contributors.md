@@ -1,6 +1,7 @@
-	# Contributors
+    # Contributors
 
 -[Raman Thakur](https://github.com/raman-thakur)
+
 - [Manas Rawat](https://github.com/importlogic)
 - Samantha Milligan
 - [Shapnesh Singh Tiwari](https://github.com/shapnesht)
@@ -276,7 +277,7 @@
 - [Ramanan Pannirselvam](https://github.com/ramanan-pan)
 - [Sandeep Panwar](https://github.com/sandeep-90)
 - [Ayomitan Pamilerin](https://github.com/AyDeveloper)
-- [Minyak]  
+- [Minyak]
 - [Jarred Harris](https://github.com/seithman)
 - [Kiran Chand](https://github.com/kiranckcl)
 - [Sezer Mehmed](https://github.com/sezermehmed)
@@ -1206,7 +1207,7 @@
 - [Mosesobike](https://github.com/Mosesobike)
 - [Thomas Steinacher](https://github.com/tomSteini)
 - Amedyne
-- pslin1  
+- pslin1
 - Morgan
 - Kinjal Rat
 - [Koushik Joshi](https://github.com/koushikjoshi)
@@ -2953,6 +2954,7 @@
 - [Gustav Sahlberg](https://github.com/Gustavsahlberg)
 - [Pontus Granath](https://github.com/pontusgranath)
 - [Piotr Witkiewicz] (https://github.com/pwitkiewicz)
+- [Georgi Delchev] (https://github.com/delchevg)
 - [Jaideep Reddy Kotla](https://github.com/Jaideep07)
 - [Dhaval ][gaurang sultania](https://github.com/gaurtaker)
 - [Deepak Kumar Giri](https://github.com/Dkgiri619)
